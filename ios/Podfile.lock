@@ -1,0 +1,34 @@
+PODS:
+  - Flutter (1.0.0)
+  - TallyiOS (1.0.3):
+    - Valet (~> 4.3.0)
+  - Valet (4.3.0)
+  - webview_flutter_wkwebview (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - TallyiOS
+  - webview_flutter_wkwebview (from `.symlinks/plugins/webview_flutter_wkwebview/darwin`)
+
+SPEC REPOS:
+  trunk:
+    - TallyiOS
+    - Valet
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  webview_flutter_wkwebview:
+    :path: ".symlinks/plugins/webview_flutter_wkwebview/darwin"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  TallyiOS: 744c44d6a97b43d598750b5e6f2d0f6643385cfa
+  Valet: 0eddc2f5876e7907a54b7763823eadb3fb3900cb
+  webview_flutter_wkwebview: 0982481e3d9c78fd5c6f62a002fcd24fc791f1e4
+
+PODFILE CHECKSUM: 35ca846bb88e8d95a4185dc7a8480cc9145a9b07
+
+COCOAPODS: 1.15.2
